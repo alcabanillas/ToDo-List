@@ -51,7 +51,7 @@ Components are the following:
 - App
   - Todo-List
   	- Todo-item
-  	- Form
+  - Form
 
 ## :sparkles: Features ##
 
