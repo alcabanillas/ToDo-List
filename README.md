@@ -50,9 +50,13 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Add bootstrap\
+:heavy_check_mark: Converted the component to card \
+:heavy_check_mark: Added icon with SVG that handles the remove todo item feature\
+:heavy_check_mark: Created CSS class for form called add-items \
+:heavy_check_mark: todo-list is a list-group \
+:heavy_check_mark: Each todo task is a list-item \
+
 
 ## :rocket: Technologies ##
 
@@ -61,8 +65,6 @@ The following tools were used in this project:
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
@@ -78,10 +80,10 @@ $ git clone https://github.com/alcabanillas/ToDo-List
 $ cd ToDo-List
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ npm start
 
 # The server will initialize in the <http://localhost:3000>
 ```
