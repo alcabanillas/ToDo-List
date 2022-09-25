@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app {
+  background: #209cee;
+  padding: 30px;
+  height: 100vh;
+}
+
+
+.todo-list {
+  background: #e8e8e8;
+  border-radius: 4px;
+  max-width: 400px;
+}
+
+
+.todo {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.remove {
+  cursor: pointer;
+  width: 2rem;
+  height: 2rem;
+}
+
+.add-items {
+  margin-bottom: 1.5rem;
+  display: flex;
+}
+
+.add-items input[type="text"] {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  width: 100%;
+  background: transparent;
+  padding: 10px;
+  border: 1px solid #ddd;
+  flex: 1;
+}
+
+.input:focus,
+.add:focus {
+  outline: none;
+}
+
+.add{
+  border-radius: 0.1275rem;
+}
+
