@@ -46,7 +46,12 @@
 
 ## :dart: About ##
 
-Describe your project
+Todo list created with React. \
+Components are the following:
+- App
+  - Todo-List
+  	- Todo-item
+  	- Form
 
 ## :sparkles: Features ##
 
