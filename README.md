@@ -55,7 +55,7 @@ Describe your project
 :heavy_check_mark: Added icon with SVG that handles the remove todo item feature\
 :heavy_check_mark: Created CSS class for form called add-items \
 :heavy_check_mark: todo-list is a list-group \
-:heavy_check_mark: Each todo task is a list-item \
+:heavy_check_mark: Each todo task is a list-item
 
 
 ## :rocket: Technologies ##
